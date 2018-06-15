@@ -1,0 +1,11 @@
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\bin\Debug\WFA.exe.config
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\bin\Debug\WFA.exe
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\bin\Debug\WFA.pdb
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\bin\Debug\Model.dll
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\bin\Debug\Model.pdb
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\obj\Debug\WFA.csprojResolveAssemblyReference.cache
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\obj\Debug\WFA.ListaCarro.resources
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\obj\Debug\WFA.Properties.Resources.resources
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\obj\Debug\WFA.csproj.GenerateResource.Cache
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\obj\Debug\WFA.exe
+C:\Users\105013\Documents\GitHub\YoutuberWFA\MinhaMecanica\WFA\obj\Debug\WFA.pdb
